@@ -54,4 +54,4 @@ Evolved prompts will provide useful project management advice tailored to differ
 Fernando, C., Banarse, D., Michalewski, H., Osindero, S., & Rocktäschel, T. (2023). Promptbreeder: Self-Referential Self-Improvement via Prompt Evolution. arXiv preprint arXiv:2309.16797.
 
 ### License
-AnalystGPT is released under the MIT License.
+promptevolution is released under the MIT License.
