@@ -57,6 +57,4 @@ Fernando, C., Banarse, D., Michalewski, H., Osindero, S., & Rocktäschel, T. (20
 
 - Expand prompts for other project types  
 - Incorporate real-world project data
-- Build planning and tracking tools with evolved prompts
-
-This demonstrates applying Prompt Evolution to generate project management assistance for AI projects.
+- Incorporate into my ongoing project <a href="https://project-manager.ai" target="_blank">project-manager.ai</a>
